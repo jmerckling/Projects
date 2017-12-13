@@ -1,9 +1,4 @@
-/*
-    Jordan Merckling 951524113
-    CIS 471
-    Assignment 2
-    Problem 3 (Cryptarithmetic puzzle solver)
- */
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
